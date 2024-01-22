@@ -1,5 +1,4 @@
 import { Button } from "./FeedbacksItem/Button";
-
 export const FeedbackOptions = ({change, useGood, useNeutral, useBad}) => {
     return <>
     <ul>
